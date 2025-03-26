@@ -3,7 +3,7 @@ name: Run tests on multiple backends
 on:
   push:
     branches: [ master, main ]
-    paths: ['lems/**', 'tests/**', 'pyproject.toml', '.github/workflows/lems.yml']
+    paths: ['lems/**', 'tests/**', 'pyproject.toml', '.github/workflows/lems_ci.yml']
   pull_request:
     branches: [ master, main]
     paths: ['lems/**', 'tests/**', 'pyproject.toml', '.github/workflows/lems_ci.yml']
