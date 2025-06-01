@@ -1,0 +1,9 @@
+Order Type,Strategy,Mean (bps),Std (bps),Median (bps),P5 (bps),P95 (bps),Q25 (bps),Q75 (bps)
+BUY,TWAP Volume vs TWAP,-12.98,24.13,-7.24,-48.55,6.33,-17.21,-1.43
+BUY,TWAP Notional vs TWAP,-14.73,28.96,-7.74,-54.43,5.39,-18.23,-1.81
+BUY,VWAP Volume vs VWAP,-12.32,67.82,-4.67,-92.12,43.52,-21.19,5.92
+BUY,VWAP Notional vs VWAP,-14.09,69.96,-5.15,-96.32,41.49,-22.11,5.44
+SELL,TWAP Volume vs TWAP,12.7,21.95,7.23,-6.28,48.99,1.41,17.32
+SELL,TWAP Notional vs TWAP,10.67,18.94,6.36,-7.3,42.73,0.77,15.73
+SELL,VWAP Volume vs VWAP,14.14,66.44,5.92,-45.68,94.99,-5.12,23.98
+SELL,VWAP Notional vs VWAP,12.26,66.14,5.39,-48.83,91.44,-5.73,22.9
